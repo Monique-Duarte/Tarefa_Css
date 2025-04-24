@@ -16,9 +16,9 @@
   grid-column-gap: 1%;
 }
 .products__product--featured {
-  border: 2px solid gold;
+  border: 2px solid rgb(0, 4, 255);
   padding: 8px;
-  background-color: #ffff42;
+  background-color: #6542ff;
 }
 .products__product__image {
   width: 100%;
